@@ -1,0 +1,11 @@
+﻿  Face.cpp
+  Group.cpp
+  Mesh.cpp
+  OBJReader.cpp
+  System.cpp
+c:\users\gabriel\dev\git\sabertooth\sabertooth\system.cpp(71): error C2065: 'mesh': identificador não declarado
+c:\users\gabriel\dev\git\sabertooth\sabertooth\system.cpp(71): error C2065: 'meshTest': identificador não declarado
+  main.cpp
+c:\users\gabriel\dev\git\sabertooth\sabertooth\main.cpp(3): warning C4005: 'EXIT_FAILURE': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(49): note: consulte a definição anterior de 'EXIT_FAILURE'
+  Gerando Código...

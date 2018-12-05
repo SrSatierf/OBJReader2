@@ -1,0 +1,21 @@
+﻿  Face.cpp
+  Group.cpp
+c:\users\gabriel\dev\git\objreader\objreader\group.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  main.cpp
+c:\users\gabriel\dev\git\objreader\objreader\system.h(12): fatal error C1083: Não é possível abrir arquivo incluir: 'SOIL.h': No such file or directory
+  Material.cpp
+c:\users\gabriel\dev\git\objreader\objreader\material.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  Mesh.cpp
+c:\users\gabriel\dev\git\objreader\objreader\mesh.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  MTLReader.cpp
+c:\users\gabriel\dev\git\objreader\objreader\material.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  OBJReader.cpp
+c:\users\gabriel\dev\git\objreader\objreader\mesh.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  Renderer.cpp
+c:\users\gabriel\dev\git\objreader\objreader\mesh.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'glm\glm.hpp': No such file or directory
+  Shader.cpp
+c:\users\gabriel\dev\git\objreader\objreader\assetmanager.h(5): fatal error C1083: Não é possível abrir arquivo incluir: 'SOIL.h': No such file or directory
+  System.cpp
+c:\users\gabriel\dev\git\objreader\objreader\system.h(12): fatal error C1083: Não é possível abrir arquivo incluir: 'SOIL.h': No such file or directory
+  Texture.cpp
+c:\users\gabriel\dev\git\objreader\objreader\assetmanager.h(5): fatal error C1083: Não é possível abrir arquivo incluir: 'SOIL.h': No such file or directory

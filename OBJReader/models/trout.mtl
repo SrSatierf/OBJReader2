@@ -1,0 +1,11 @@
+newmtl trout
+illum 4
+
+Kd 0.50 0.50 0.50
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+map_Kd trout.bmp
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.5
+
